@@ -1,0 +1,12 @@
+get http://localhost:3000/query_params?input=hello
+Content-Type: application/json
+
+
+###
+
+post http://localhost:3000/query_params?input=purple_hippo
+Content-Type: application/json
+
+{
+ 
+}
